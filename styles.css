@@ -1,0 +1,65 @@
+.body-class {
+    margin: 25px;
+    background-color: #E2E0C8;
+    font-family: monospace;
+    font-size: 14px;
+}
+
+.header-class {
+    padding: 20px;
+    background-color: #5C7285;
+    text-align: center;
+    color: white;
+}
+
+.nav-class {
+    background-color: #A7B49E;
+    padding: 15px;
+}
+
+.nav-link-class {
+    color: white;
+    text-decoration: none;
+}
+.nav-link-class-active {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link-class:hover {
+    text-decoration: underline;
+}
+
+.title-class, .section-title-class {
+    padding: 5px;
+    background-color: #818C78;
+}
+
+.text-class {
+    color: darkblue;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    outline: 4px solid #818C78;
+}
+
+.input-class {
+    margin: 5px 0px;
+    background-color: #A7B49E;
+    border-radius: 4px;
+}
+
+.button-class {
+    background-color: #818C78;
+}
+
+.footer-class {
+    background-color: darkgrey;
+}
+
+.footer-class .text-class {
+    padding: 5px;
+    color: maroon;
+}
